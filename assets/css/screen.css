@@ -408,6 +408,16 @@ table.plain {
     letter-spacing: 0;
 }
 
+.blog-author {
+    display: inline;
+    margin-right: 20;
+}
+
+.contact a:hover {
+    color: #50585D;
+    text-decoration: none;
+}
+
 .blog-description-wrap {
     padding: 1em 0;
     border-bottom: 1px solid #EEEEEE;
